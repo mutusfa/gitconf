@@ -1,0 +1,10 @@
+[user]
+	email = julius.juodagalvis@gmail.com
+	name = Julius Juodagalvis
+[core]
+	excludesfile = /home/julius_juodagalvis/.gitignore_global
+
+[alias]
+[alias]
+	co = checkout
+	activity = show --pretty=format:"%Cgreen%ci %Cblue%cr%Creset" $k -- | head -n 1`\\t$k; done | sort -r
